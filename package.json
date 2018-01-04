@@ -1,0 +1,25 @@
+{
+  "name": "dmi-npm-demo-pkg",
+  "version": "1.0.2",
+  "description": "A demo package for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmiepub/dmi-npm-demo-pkg.git"
+  },
+  "keywords": [
+    "dmi"
+  ],
+  "author": "Dmi Systems <hello@dmiepub.com> (https://dmi.systems)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmiepub/dmi-npm-demo-pkg/issues"
+  },
+  "homepage": "https://github.com/dmiepub/dmi-npm-demo-pkg#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
